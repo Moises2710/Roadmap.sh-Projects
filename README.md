@@ -10,6 +10,8 @@ In this repository contains front-end projects built following the [roadmap.sh](
 
 ---
 
+1. [Simple Tabs](https://roadmap.sh/projects/simple-tabs)  
+3. [Cookie Consent](https://roadmap.sh/projects/cookie-consent)  
 3. [Restricted Textarea](https://roadmap.sh/projects/restricted-textarea)  
 
 Click any of the images below to view the readme and live demo of the project.
