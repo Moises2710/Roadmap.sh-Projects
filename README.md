@@ -6,13 +6,11 @@ In this repository contains front-end projects built following the [roadmap.sh](
 
 ---
 
-## Projects List
+## Projects List of Roadmap.sh
 
 ---
 
-1. [Tabs](/Frontend/1-Tabs/)  
-2. [Cookie Consent](/Frontend/2-Cookie-Consent/)  
-3. [Restricted Textarea](/Frontend/3-Restricted-Textarea/)  
+3. [Restricted Textarea](https://roadmap.sh/projects/restricted-textarea)  
 
 Click any of the images below to view the readme and live demo of the project.
 
