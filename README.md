@@ -14,6 +14,7 @@ In this repository contains front-end projects built following the [roadmap.sh](
 3. [Cookie Consent](https://roadmap.sh/projects/cookie-consent)  
 3. [Restricted Textarea](https://roadmap.sh/projects/restricted-textarea)  
 4. [Accordion](https://roadmap.sh/projects/accordion)  
+5. [Age Calculator](https://roadmap.sh/projects/age-calculator)  
 
 Click any of the images below to view the readme and live demo of the project.
 
@@ -28,7 +29,10 @@ Click any of the images below to view the readme and live demo of the project.
   <a href="/Frontend/3-Restricted-Textarea/">
     <img src="assets/textarea-preview.jpg" alt="Restricted Textarea Project" width="30%">
   </a>
-    <a href="/Frontend/4-Accordion/">
+  <a href="/Frontend/4-Accordion/">
     <img src="assets/accordion-preview.jpg" alt="Accordion Project" width="30%">
+  </a>
+  <a href="/Frontend/5-Age-Calculator/">
+    <img src="assets/ageCalculator-preview.jpg" alt="Age Calculator Project" width="30%">
   </a>
 </div>
